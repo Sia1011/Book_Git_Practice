@@ -1,3 +1,6 @@
 found some cool tings
 
 java has done a lot for me
+
+
+editor: add more about the story
